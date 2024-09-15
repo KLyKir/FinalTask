@@ -1,3 +1,1 @@
-Реалізував калькулятор.
-З index.php ми відправляємо запити за допомогою Ajax на сервер, там ми оброблюємо інформацію та за допомогою методів класу виконуємо підрахунки.
-При створенні даного калькулятура було налаштовано сервер, php, базу даних(де ми зберігаємо результати та час), phpmyadmin(для зручної роботи з бд).
+Completed the task considering the conditions. In this task i designed a page, using jQuery, bootstrap, datatables. The server side was made using php and as a database I used mysql. To calculate fibonacci number, user must enter his username and number. The result will shown and recorded to the table. 

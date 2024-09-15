@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-require 'Calculator.php';
+require 'classes/Calculator.php';
 
 if($_SERVER['REQUEST_METHOD'] == 'POST'){
     $username = htmlspecialchars($_POST['username'], ENT_QUOTES, 'UTF-8');
